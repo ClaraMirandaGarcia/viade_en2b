@@ -10,7 +10,9 @@ Clara Miranda García
 
 This change is in the new feature branch
 
+
 Change in the master
+
 This project is an assignment for the [Software Architecture course](https://arquisoft.github.io/) following [these requirements](https://labra.solid.community/public/SoftwareArchitecture/AssignmentDescription/).
 
 The app is deployed at [https://arquisoft.github.io/viade_en2b/](https://arquisoft.github.io/viade_en2b/) which also contains a [technical documentation](https://arquisoft.github.io/viade_en2b/docs).
